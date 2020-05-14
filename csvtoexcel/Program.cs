@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Windows.Forms;
 
-namespace serdenci
+namespace csvtoexcel
 {
     static class Program
     {

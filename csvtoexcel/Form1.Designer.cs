@@ -1,4 +1,4 @@
-﻿namespace serdenci
+﻿namespace csvtoexcel
 {
     partial class Form1
     {
